@@ -1,3 +1,6 @@
+live demo 
+https://fintrack-dashboard-mocha.vercel.app/
+
 # 💰 FinTrack – Finance Dashboard
 
 ## 📌 Overview
